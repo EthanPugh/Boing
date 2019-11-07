@@ -1,2 +1,2 @@
 # Boing
-A small JavaFX program that defines and displays various moving shapes in a window.
+A program that displays various moving shapes in a window and bounces them off the border.
