@@ -36,6 +36,8 @@ public class Main extends Application {
 		String filename = input.next();
 		input.close();
 
+		System.out.println("Jeff");
+
 		primaryStage.setTitle(FRAME_TITLE);
 		Group root = new Group();
 		Canvas canvas = new Canvas(800, 800);
